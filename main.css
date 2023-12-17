@@ -72,7 +72,7 @@ body {
 }
 .textbox p {
     display: inline-block;
-    font-family: 'Caveat';
+    font-family: "Caveat";
     font-size: 18px;
     
     
@@ -80,7 +80,7 @@ body {
 
 .box1 p{
     
-    font-family: 'Caveat';
+    font-family: "Caveat";
     font-size: 18px;
 
 }
