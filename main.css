@@ -46,10 +46,11 @@ body {
 }
 .box1 img {
     height: 60%;
-    
+    display: block;
     object-fit: contain;
     width: 30%;
     float: left;
+    max-width: 100%;
 }
 
 .box img {
