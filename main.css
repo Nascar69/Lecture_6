@@ -1,3 +1,6 @@
+@import url("./fonts.css");
+
+
 ul {
     list-style: none;
    
@@ -11,6 +14,7 @@ li a {
     color: white;
     text-decoration: none;
     font-size: 25px;
+    font-family: 'Bebas Neue';
     
 }
 
@@ -68,6 +72,15 @@ body {
 }
 .textbox p {
     display: inline-block;
+    font-family: 'Caveat';
+    font-size: 18px;
     
     
+}
+
+.box1 p{
+    
+    font-family: 'Caveat';
+    font-size: 18px;
+
 }
